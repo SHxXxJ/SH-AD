@@ -1,3 +1,7 @@
 ! Title: SH-AD
 !
 !
+etoland.co.kr##div:nth-child(4) > a > img
+etoland.co.kr##div:nth-child(4) > a > img
+etoland.co.kr##table:nth-child(5) > tbody > tr > td:last-child > table:nth-child(3) > tbody > tr:first-child > td > a > img
+etoland.co.kr##table:nth-child(5) > tbody > tr > td:last-child > table:nth-child(3) > tbody > tr:first-child > td > a > img
